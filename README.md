@@ -17,3 +17,4 @@
 | Impresiones en consola innecesarias | No aportan funcionalidad al usuario final en producción. | Se eliminaron todos los console.log. |
 
 ### Enlace al sitio publicado en Netlify
+https://inspiring-valkyrie-57d1cc.netlify.app/ 
